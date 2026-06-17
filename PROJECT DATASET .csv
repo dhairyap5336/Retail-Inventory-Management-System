@@ -1,0 +1,916 @@
+date,product,quantity_sold,revenue_inr,season,holiday
+2024-03-01,Western Dress,20,28420,Spring,None
+2024-03-01,Dupatta,13,7397,Spring,None
+2024-03-02,T-shirt,13,6292,Spring,None
+2024-03-02,Nightwear,15,15780,Spring,None
+2024-03-03,Dupatta,17,5593,Spring,None
+2024-03-03,Winter Jacket,16,45744,Spring,None
+2024-03-04,Salwar Suit,5,5840,Spring,None
+2024-03-04,Skirt,8,6888,Spring,None
+2024-03-05,Saree,5,11415,Spring,None
+2024-03-05,Western Dress,15,20670,Spring,None
+2024-03-06,Skirt,7,8981,Spring,None
+2024-03-06,Top/Blouse,16,16544,Spring,None
+2024-03-07,Jeans,10,14140,Spring,None
+2024-03-07,Saree,14,24556,Spring,None
+2024-03-07,Top/Blouse,9,10197,Spring,None
+2024-03-08,Jeans,12,17184,Spring,None
+2024-03-08,Skirt,8,6936,Spring,None
+2024-03-08,Lehenga,8,36816,Spring,None
+2024-03-09,Salwar Suit,11,11418,Spring,None
+2024-03-09,T-shirt,16,11104,Spring,None
+2024-03-09,Nightwear,18,21276,Spring,None
+2024-03-10,Top/Blouse,19,13927,Spring,None
+2024-03-10,Lehenga,16,44272,Spring,None
+2024-03-11,Jeans,17,29359,Spring,None
+2024-03-11,Top/Blouse,13,9165,Spring,None
+2024-03-11,Saree,10,12650,Spring,None
+2024-03-12,Dupatta,5,1915,Spring,None
+2024-03-12,Saree,12,26556,Spring,None
+2024-03-12,Western Dress,14,25872,Spring,None
+2024-03-13,Nightwear,17,13923,Spring,None
+2024-03-13,Kurti,20,15480,Spring,None
+2024-03-14,Skirt,13,18681,Spring,None
+2024-03-14,T-shirt,8,5672,Spring,None
+2024-03-14,Salwar Suit,8,11800,Spring,None
+2024-03-15,Saree,17,31263,Spring,None
+2024-03-15,Jeans,17,23732,Spring,None
+2024-03-15,Skirt,10,9160,Spring,None
+2024-03-16,Salwar Suit,16,28096,Spring,None
+2024-03-16,Skirt,18,21888,Spring,None
+2024-03-16,Western Dress,17,31127,Spring,None
+2024-03-17,Winter Jacket,9,28152,Spring,None
+2024-03-17,Jeans,19,24187,Spring,None
+2024-03-18,Western Dress,13,20150,Spring,None
+2024-03-18,Jeans,15,21870,Spring,None
+2024-03-19,Kurti,20,10660,Spring,None
+2024-03-19,Dupatta,13,6799,Spring,None
+2024-03-20,Dupatta,12,3252,Spring,None
+2024-03-20,Top/Blouse,7,4662,Spring,None
+2024-03-20,Kurti,6,5208,Spring,None
+2024-03-21,Top/Blouse,5,5680,Spring,None
+2024-03-21,Nightwear,12,14160,Spring,None
+2024-03-22,Jeans,10,15640,Spring,None
+2024-03-22,Kurti,18,15462,Spring,None
+2024-03-22,Saree,7,13993,Spring,None
+2024-03-23,Kurti,14,11200,Spring,None
+2024-03-23,Jeans,9,15354,Spring,None
+2024-03-23,Winter Jacket,17,55692,Spring,None
+2024-03-24,Salwar Suit,7,7637,Spring,None
+2024-03-24,Dupatta,20,6140,Spring,None
+2024-03-25,Jeans,8,10120,Spring,Holi
+2024-03-25,Kurti,14,10458,Spring,Holi
+2024-03-25,Salwar Suit,5,5755,Spring,Holi
+2024-03-26,Winter Jacket,9,25434,Spring,None
+2024-03-26,Lehenga,12,59616,Spring,None
+2024-03-26,Saree,12,23808,Spring,None
+2024-03-27,T-shirt,12,7980,Spring,None
+2024-03-27,Dupatta,19,5966,Spring,None
+2024-03-27,Lehenga,8,25280,Spring,None
+2024-03-28,Lehenga,17,50966,Spring,None
+2024-03-28,Kurti,11,6226,Spring,None
+2024-03-29,Dupatta,16,6544,Spring,None
+2024-03-29,Skirt,8,9664,Spring,None
+2024-03-29,Winter Jacket,14,46830,Spring,None
+2024-03-30,Nightwear,9,13302,Spring,None
+2024-03-30,Lehenga,18,88344,Spring,None
+2024-03-31,Winter Jacket,19,41933,Spring,None
+2024-03-31,Nightwear,8,6344,Spring,None
+2024-03-31,Western Dress,6,11682,Spring,None
+2024-04-01,Salwar Suit,9,15408,Spring,None
+2024-04-01,Dupatta,11,4136,Spring,None
+2024-04-02,Salwar Suit,15,22185,Spring,None
+2024-04-02,Lehenga,14,50162,Spring,None
+2024-04-03,Jeans,10,19350,Spring,None
+2024-04-03,Skirt,13,13819,Spring,None
+2024-04-03,Western Dress,20,35540,Spring,None
+2024-04-04,Saree,11,25432,Spring,None
+2024-04-04,Jeans,10,16800,Spring,None
+2024-04-05,Salwar Suit,16,16112,Spring,None
+2024-04-05,Dupatta,6,2952,Spring,None
+2024-04-05,Saree,15,33510,Spring,None
+2024-04-06,Lehenga,9,28458,Spring,None
+2024-04-06,Nightwear,12,9216,Spring,None
+2024-04-06,Salwar Suit,19,30210,Spring,None
+2024-04-07,Dupatta,8,4208,Spring,None
+2024-04-07,Top/Blouse,18,21132,Spring,None
+2024-04-08,Saree,6,14898,Spring,None
+2024-04-08,Skirt,15,16335,Spring,None
+2024-04-09,T-shirt,6,4350,Spring,None
+2024-04-09,Lehenga,17,78880,Spring,None
+2024-04-10,Top/Blouse,18,13158,Spring,Eid
+2024-04-10,T-shirt,20,12200,Spring,Eid
+2024-04-10,Dupatta,9,3438,Spring,Eid
+2024-04-11,Dupatta,19,7334,Spring,None
+2024-04-11,Saree,16,21056,Spring,None
+2024-04-11,Top/Blouse,6,5310,Spring,None
+2024-04-12,Jeans,9,15138,Spring,None
+2024-04-12,Saree,19,30039,Spring,None
+2024-04-12,Skirt,6,5082,Spring,None
+2024-04-13,Saree,14,31262,Spring,None
+2024-04-13,Dupatta,17,9673,Spring,None
+2024-04-14,Lehenga,8,27648,Spring,None
+2024-04-14,Nightwear,14,15722,Spring,None
+2024-04-14,Saree,11,23364,Spring,None
+2024-04-15,Western Dress,20,34040,Spring,None
+2024-04-15,Jeans,6,11862,Spring,None
+2024-04-16,Jeans,15,29790,Spring,None
+2024-04-16,Lehenga,8,31008,Spring,None
+2024-04-17,Winter Jacket,15,31140,Spring,None
+2024-04-17,Lehenga,14,52514,Spring,None
+2024-04-18,Jeans,11,21560,Spring,None
+2024-04-18,Kurti,9,7902,Spring,None
+2024-04-18,Salwar Suit,5,6705,Spring,None
+2024-04-19,T-shirt,19,7904,Spring,None
+2024-04-19,Dupatta,13,5304,Spring,None
+2024-04-20,Dupatta,14,7490,Spring,None
+2024-04-20,Skirt,11,12430,Spring,None
+2024-04-20,T-shirt,15,9975,Spring,None
+2024-04-21,Nightwear,15,11205,Spring,None
+2024-04-21,Skirt,17,24344,Spring,None
+2024-04-22,T-shirt,12,6192,Spring,None
+2024-04-22,Dupatta,14,5194,Spring,None
+2024-04-22,Nightwear,11,13079,Spring,None
+2024-04-23,T-shirt,10,7420,Spring,None
+2024-04-23,Western Dress,15,22305,Spring,None
+2024-04-24,Top/Blouse,9,9360,Spring,None
+2024-04-24,Winter Jacket,18,46260,Spring,None
+2024-04-24,Nightwear,15,19050,Spring,None
+2024-04-25,Kurti,7,5103,Spring,None
+2024-04-25,Salwar Suit,13,22971,Spring,None
+2024-04-25,Skirt,17,24157,Spring,None
+2024-04-26,Salwar Suit,14,16310,Spring,None
+2024-04-26,Nightwear,15,18270,Spring,None
+2024-04-26,Winter Jacket,13,35230,Spring,None
+2024-04-27,Top/Blouse,7,7014,Spring,None
+2024-04-27,Jeans,18,33300,Spring,None
+2024-04-28,Nightwear,10,13480,Spring,None
+2024-04-28,Kurti,5,4200,Spring,None
+2024-04-28,Dupatta,15,6135,Spring,None
+2024-04-29,Kurti,17,10115,Spring,None
+2024-04-29,Dupatta,15,6495,Spring,None
+2024-04-29,Jeans,17,21573,Spring,None
+2024-04-30,Nightwear,11,13871,Spring,None
+2024-04-30,Kurti,16,11264,Spring,None
+2024-05-01,Winter Jacket,13,27794,Spring,None
+2024-05-01,Saree,15,33630,Spring,None
+2024-05-01,Skirt,19,22382,Spring,None
+2024-05-02,Nightwear,13,15145,Spring,None
+2024-05-02,Kurti,18,11430,Spring,None
+2024-05-02,Salwar Suit,13,20163,Spring,None
+2024-05-03,Skirt,12,16968,Spring,None
+2024-05-03,T-shirt,14,6062,Spring,None
+2024-05-04,Western Dress,18,33678,Spring,None
+2024-05-04,T-shirt,6,4704,Spring,None
+2024-05-05,Top/Blouse,14,16646,Spring,None
+2024-05-05,Jeans,14,25396,Spring,None
+2024-05-05,T-shirt,17,11288,Spring,None
+2024-05-06,Skirt,5,6260,Spring,None
+2024-05-06,Jeans,12,20532,Spring,None
+2024-05-07,Lehenga,11,36311,Spring,None
+2024-05-07,Dupatta,15,8340,Spring,None
+2024-05-07,Jeans,10,18340,Spring,None
+2024-05-08,T-shirt,18,10638,Spring,None
+2024-05-08,Nightwear,10,14740,Spring,None
+2024-05-08,Kurti,15,8595,Spring,None
+2024-05-09,Western Dress,16,28384,Spring,None
+2024-05-09,Jeans,5,7200,Spring,None
+2024-05-10,Saree,10,20120,Spring,None
+2024-05-10,Nightwear,15,17550,Spring,None
+2024-05-10,Top/Blouse,16,10096,Spring,None
+2024-05-11,Saree,14,18872,Spring,None
+2024-05-11,Skirt,14,17976,Spring,None
+2024-05-11,Dupatta,12,3912,Spring,None
+2024-05-12,Saree,11,21175,Spring,None
+2024-05-12,Lehenga,15,38520,Spring,None
+2024-05-13,Saree,12,26280,Spring,None
+2024-05-13,Dupatta,19,11286,Spring,None
+2024-05-14,Salwar Suit,7,11949,Spring,None
+2024-05-14,Kurti,19,11723,Spring,None
+2024-05-14,Jeans,17,30515,Spring,None
+2024-05-15,Top/Blouse,10,10510,Spring,None
+2024-05-15,Saree,9,19755,Spring,None
+2024-05-15,Dupatta,14,6328,Spring,None
+2024-05-16,Winter Jacket,20,57660,Spring,None
+2024-05-16,Western Dress,7,11501,Spring,None
+2024-05-16,Skirt,6,5004,Spring,None
+2024-05-17,Winter Jacket,9,26532,Spring,None
+2024-05-17,T-shirt,15,9825,Spring,None
+2024-05-17,Jeans,5,8190,Spring,None
+2024-05-18,Winter Jacket,19,47595,Spring,None
+2024-05-18,Salwar Suit,16,18464,Spring,None
+2024-05-19,Salwar Suit,10,15040,Spring,None
+2024-05-19,Winter Jacket,16,39296,Spring,None
+2024-05-20,Top/Blouse,19,20786,Spring,None
+2024-05-20,T-shirt,11,5203,Spring,None
+2024-05-20,Jeans,17,23307,Spring,None
+2024-05-21,Jeans,11,18678,Spring,None
+2024-05-21,Saree,13,15899,Spring,None
+2024-05-21,Lehenga,9,27945,Spring,None
+2024-05-22,Nightwear,10,13180,Spring,None
+2024-05-22,T-shirt,5,3185,Spring,None
+2024-05-23,Top/Blouse,9,8082,Spring,None
+2024-05-23,Saree,13,16783,Spring,None
+2024-05-24,Western Dress,19,33288,Spring,None
+2024-05-24,Jeans,5,7730,Spring,None
+2024-05-24,Salwar Suit,19,33193,Spring,None
+2024-05-25,Dupatta,12,4428,Spring,None
+2024-05-25,Kurti,14,12488,Spring,None
+2024-05-26,Winter Jacket,5,10770,Spring,None
+2024-05-26,T-shirt,17,13277,Spring,None
+2024-05-26,Salwar Suit,7,11284,Spring,None
+2024-05-27,Kurti,5,4455,Spring,None
+2024-05-27,Saree,12,23616,Spring,None
+2024-05-27,Dupatta,14,7462,Spring,None
+2024-05-28,Saree,18,41598,Spring,None
+2024-05-28,Lehenga,10,37230,Spring,None
+2024-05-29,T-shirt,15,10905,Spring,None
+2024-05-29,Jeans,15,26325,Spring,None
+2024-05-30,Dupatta,17,4216,Spring,None
+2024-05-30,Kurti,8,5312,Spring,None
+2024-05-30,Top/Blouse,13,11869,Spring,None
+2024-05-31,Saree,12,27588,Spring,None
+2024-05-31,T-shirt,10,6970,Spring,None
+2024-05-31,Top/Blouse,16,11408,Spring,None
+2024-06-01,Top/Blouse,18,19818,Summer,None
+2024-06-01,T-shirt,32,22624,Summer,None
+2024-06-01,Nightwear,19,20273,Summer,None
+2024-06-02,Dupatta,15,3930,Summer,None
+2024-06-02,Salwar Suit,5,7295,Summer,None
+2024-06-02,Top/Blouse,24,18240,Summer,None
+2024-06-03,Salwar Suit,8,9104,Summer,None
+2024-06-03,Jeans,11,20801,Summer,None
+2024-06-04,Western Dress,6,10008,Summer,None
+2024-06-04,Top/Blouse,24,21504,Summer,None
+2024-06-04,Dupatta,16,4640,Summer,None
+2024-06-05,Nightwear,9,9000,Summer,None
+2024-06-05,Salwar Suit,7,7637,Summer,None
+2024-06-06,Skirt,18,18594,Summer,None
+2024-06-06,Saree,10,24280,Summer,None
+2024-06-06,Lehenga,17,70074,Summer,None
+2024-06-07,Saree,12,29676,Summer,None
+2024-06-07,Salwar Suit,15,16305,Summer,None
+2024-06-07,Nightwear,10,7910,Summer,None
+2024-06-08,Salwar Suit,8,12120,Summer,None
+2024-06-08,Dupatta,8,3944,Summer,None
+2024-06-08,T-shirt,22,12166,Summer,None
+2024-06-09,Lehenga,19,63080,Summer,None
+2024-06-09,Kurti,26,18512,Summer,None
+2024-06-10,Lehenga,18,73476,Summer,None
+2024-06-10,Skirt,28,27412,Summer,None
+2024-06-11,Kurti,16,11504,Summer,None
+2024-06-11,T-shirt,30,18660,Summer,None
+2024-06-11,Saree,14,22414,Summer,None
+2024-06-12,Winter Jacket,19,43320,Summer,None
+2024-06-12,Jeans,6,8616,Summer,None
+2024-06-12,Kurti,12,7788,Summer,None
+2024-06-13,Jeans,17,26231,Summer,None
+2024-06-13,Saree,6,10626,Summer,None
+2024-06-14,T-shirt,40,28280,Summer,None
+2024-06-14,Saree,13,26169,Summer,None
+2024-06-15,Salwar Suit,20,34860,Summer,None
+2024-06-15,Nightwear,18,17100,Summer,None
+2024-06-15,Jeans,5,8640,Summer,None
+2024-06-16,Western Dress,16,20176,Summer,None
+2024-06-16,Lehenga,6,15762,Summer,None
+2024-06-17,Kurti,26,20098,Summer,None
+2024-06-17,Saree,15,19575,Summer,None
+2024-06-18,Western Dress,19,36632,Summer,None
+2024-06-18,Kurti,34,26520,Summer,None
+2024-06-18,Dupatta,20,5820,Summer,None
+2024-06-19,Top/Blouse,16,17200,Summer,None
+2024-06-19,Western Dress,10,15210,Summer,None
+2024-06-19,Saree,14,33866,Summer,None
+2024-06-20,Winter Jacket,16,44176,Summer,None
+2024-06-20,T-shirt,24,13824,Summer,None
+2024-06-21,Salwar Suit,5,5150,Summer,None
+2024-06-21,Western Dress,17,25551,Summer,None
+2024-06-21,Dupatta,12,5340,Summer,None
+2024-06-22,Top/Blouse,10,9320,Summer,None
+2024-06-22,Kurti,10,8010,Summer,None
+2024-06-23,Saree,5,12220,Summer,None
+2024-06-23,Lehenga,12,38988,Summer,None
+2024-06-24,Western Dress,20,24280,Summer,None
+2024-06-24,Kurti,24,17064,Summer,None
+2024-06-24,Jeans,16,22880,Summer,None
+2024-06-25,Jeans,13,20306,Summer,None
+2024-06-25,Top/Blouse,40,28960,Summer,None
+2024-06-26,Saree,19,34770,Summer,None
+2024-06-26,Top/Blouse,16,18080,Summer,None
+2024-06-27,T-shirt,14,9114,Summer,None
+2024-06-27,Top/Blouse,36,42660,Summer,None
+2024-06-27,Kurti,40,33920,Summer,None
+2024-06-28,Lehenga,11,43769,Summer,None
+2024-06-28,Saree,13,30589,Summer,None
+2024-06-29,Kurti,14,8946,Summer,None
+2024-06-29,Top/Blouse,16,12688,Summer,None
+2024-06-29,T-shirt,12,9456,Summer,None
+2024-06-30,Nightwear,16,18976,Summer,None
+2024-06-30,Saree,10,23010,Summer,None
+2024-07-01,Kurti,32,16960,Summer,None
+2024-07-01,Western Dress,9,16218,Summer,None
+2024-07-02,Saree,6,11148,Summer,None
+2024-07-02,T-shirt,16,9680,Summer,None
+2024-07-03,Saree,11,13244,Summer,None
+2024-07-03,Lehenga,10,41540,Summer,None
+2024-07-04,Winter Jacket,17,42262,Summer,None
+2024-07-04,Skirt,32,47296,Summer,None
+2024-07-05,Nightwear,7,6545,Summer,None
+2024-07-05,T-shirt,28,16268,Summer,None
+2024-07-06,Lehenga,12,42420,Summer,None
+2024-07-06,Salwar Suit,5,5800,Summer,None
+2024-07-06,Nightwear,17,22661,Summer,None
+2024-07-07,Western Dress,6,8754,Summer,None
+2024-07-07,Kurti,18,14886,Summer,None
+2024-07-08,Top/Blouse,30,21150,Summer,None
+2024-07-08,Saree,19,29355,Summer,None
+2024-07-09,Jeans,5,6015,Summer,None
+2024-07-09,Nightwear,13,12948,Summer,None
+2024-07-09,Saree,14,27650,Summer,None
+2024-07-10,Lehenga,15,73245,Summer,None
+2024-07-10,Dupatta,13,7748,Summer,None
+2024-07-11,Kurti,20,12540,Summer,None
+2024-07-11,Skirt,28,26348,Summer,None
+2024-07-11,Nightwear,16,22848,Summer,None
+2024-07-12,Salwar Suit,18,19674,Summer,None
+2024-07-12,Dupatta,15,3810,Summer,None
+2024-07-12,Top/Blouse,34,23324,Summer,None
+2024-07-13,Winter Jacket,13,30680,Summer,None
+2024-07-13,Top/Blouse,34,22100,Summer,None
+2024-07-13,Saree,6,12702,Summer,None
+2024-07-14,Western Dress,6,8766,Summer,None
+2024-07-14,Dupatta,13,5941,Summer,None
+2024-07-15,Winter Jacket,12,29652,Summer,None
+2024-07-15,Lehenga,7,34048,Summer,None
+2024-07-15,Dupatta,17,8874,Summer,None
+2024-07-16,Dupatta,20,6560,Summer,None
+2024-07-16,Nightwear,13,11310,Summer,None
+2024-07-17,Winter Jacket,17,43894,Summer,None
+2024-07-17,Nightwear,18,14220,Summer,None
+2024-07-18,Skirt,28,24472,Summer,None
+2024-07-18,Jeans,13,16289,Summer,None
+2024-07-19,Lehenga,19,73929,Summer,None
+2024-07-19,Top/Blouse,38,40356,Summer,None
+2024-07-20,Lehenga,18,59742,Summer,None
+2024-07-20,Skirt,26,27638,Summer,None
+2024-07-20,Saree,8,14400,Summer,None
+2024-07-21,Skirt,18,22212,Summer,None
+2024-07-21,Lehenga,7,21826,Summer,None
+2024-07-22,Jeans,20,26840,Summer,None
+2024-07-22,Saree,18,41832,Summer,None
+2024-07-23,Salwar Suit,18,28386,Summer,None
+2024-07-23,Winter Jacket,15,50760,Summer,None
+2024-07-23,Top/Blouse,38,42408,Summer,None
+2024-07-24,Lehenga,7,22400,Summer,None
+2024-07-24,T-shirt,28,18844,Summer,None
+2024-07-24,Top/Blouse,12,10644,Summer,None
+2024-07-25,Jeans,11,14597,Summer,None
+2024-07-25,Salwar Suit,14,25060,Summer,None
+2024-07-26,Jeans,14,21980,Summer,None
+2024-07-26,Skirt,28,28728,Summer,None
+2024-07-27,Lehenga,20,73540,Summer,None
+2024-07-27,Salwar Suit,6,7428,Summer,None
+2024-07-28,Nightwear,20,14100,Summer,None
+2024-07-28,Lehenga,11,48290,Summer,None
+2024-07-28,T-shirt,20,10780,Summer,None
+2024-07-29,T-shirt,36,26928,Summer,None
+2024-07-29,Skirt,28,41972,Summer,None
+2024-07-30,Jeans,6,10632,Summer,None
+2024-07-30,Kurti,34,28254,Summer,None
+2024-07-31,Salwar Suit,15,18810,Summer,None
+2024-07-31,Dupatta,15,4605,Summer,None
+2024-07-31,Kurti,18,13824,Summer,None
+2024-08-01,Dupatta,19,5852,Summer,None
+2024-08-01,Kurti,36,23400,Summer,None
+2024-08-02,T-shirt,40,31600,Summer,None
+2024-08-02,Lehenga,16,61952,Summer,None
+2024-08-02,Dupatta,8,3712,Summer,None
+2024-08-03,Top/Blouse,10,6260,Summer,None
+2024-08-03,Skirt,16,14336,Summer,None
+2024-08-03,Salwar Suit,18,21114,Summer,None
+2024-08-04,Western Dress,7,9940,Summer,None
+2024-08-04,Kurti,36,29484,Summer,None
+2024-08-04,Skirt,10,10820,Summer,None
+2024-08-05,Western Dress,14,20832,Summer,None
+2024-08-05,Lehenga,7,30058,Summer,None
+2024-08-06,T-shirt,32,21568,Summer,None
+2024-08-06,Winter Jacket,9,27288,Summer,None
+2024-08-07,Top/Blouse,22,23870,Summer,None
+2024-08-07,Lehenga,14,40880,Summer,None
+2024-08-08,Skirt,22,26356,Summer,None
+2024-08-08,Nightwear,16,15280,Summer,None
+2024-08-08,Saree,13,31005,Summer,None
+2024-08-09,T-shirt,30,14340,Summer,None
+2024-08-09,Skirt,22,23738,Summer,None
+2024-08-10,Lehenga,5,12530,Summer,None
+2024-08-10,Western Dress,10,14800,Summer,None
+2024-08-11,Western Dress,9,10827,Summer,None
+2024-08-11,T-shirt,22,14036,Summer,None
+2024-08-11,Lehenga,17,84660,Summer,None
+2024-08-12,Jeans,13,19448,Summer,None
+2024-08-12,Salwar Suit,17,27608,Summer,None
+2024-08-13,T-shirt,18,13626,Summer,None
+2024-08-13,Western Dress,20,33320,Summer,None
+2024-08-13,Dupatta,14,6020,Summer,None
+2024-08-14,Salwar Suit,19,21489,Summer,None
+2024-08-14,Kurti,10,7710,Summer,None
+2024-08-14,Skirt,34,31552,Summer,None
+2024-08-15,Nightwear,7,10262,Summer,None
+2024-08-15,Lehenga,9,42786,Summer,None
+2024-08-16,Jeans,13,18772,Summer,None
+2024-08-16,Salwar Suit,20,22180,Summer,None
+2024-08-16,Top/Blouse,30,35430,Summer,None
+2024-08-17,Kurti,10,8380,Summer,None
+2024-08-17,Western Dress,11,18304,Summer,None
+2024-08-18,Kurti,20,16780,Summer,None
+2024-08-18,Western Dress,9,16416,Summer,None
+2024-08-18,Top/Blouse,24,24504,Summer,None
+2024-08-19,Top/Blouse,26,29146,Summer,Raksha Bandhan
+2024-08-19,Skirt,26,38974,Summer,Raksha Bandhan
+2024-08-19,Salwar Suit,17,29308,Summer,Raksha Bandhan
+2024-08-20,Saree,7,9541,Summer,None
+2024-08-20,Top/Blouse,22,22132,Summer,None
+2024-08-20,Kurti,38,31882,Summer,None
+2024-08-21,Dupatta,8,1952,Summer,None
+2024-08-21,Western Dress,15,25080,Summer,None
+2024-08-22,Jeans,14,27664,Summer,None
+2024-08-22,Skirt,24,23688,Summer,None
+2024-08-23,Jeans,10,16250,Summer,None
+2024-08-23,Salwar Suit,10,15600,Summer,None
+2024-08-24,T-shirt,14,7882,Summer,None
+2024-08-24,Salwar Suit,17,22780,Summer,None
+2024-08-24,Lehenga,7,24374,Summer,None
+2024-08-25,Jeans,6,9864,Summer,None
+2024-08-25,Top/Blouse,24,18000,Summer,None
+2024-08-26,T-shirt,24,18888,Summer,None
+2024-08-26,Lehenga,17,59092,Summer,None
+2024-08-27,Skirt,12,15936,Summer,None
+2024-08-27,T-shirt,18,11052,Summer,None
+2024-08-27,Saree,13,26312,Summer,None
+2024-08-28,Top/Blouse,28,19516,Summer,None
+2024-08-28,T-shirt,30,22470,Summer,None
+2024-08-28,Kurti,36,30960,Summer,None
+2024-08-29,Lehenga,17,54689,Summer,None
+2024-08-29,Saree,12,26292,Summer,None
+2024-08-30,Saree,15,26265,Summer,None
+2024-08-30,Kurti,22,18788,Summer,None
+2024-08-30,Jeans,8,14024,Summer,None
+2024-08-31,Salwar Suit,13,19149,Summer,None
+2024-08-31,Winter Jacket,8,22088,Summer,None
+2024-09-01,Salwar Suit,20,35440,Autumn,None
+2024-09-01,Nightwear,20,22840,Autumn,None
+2024-09-02,Dupatta,19,10298,Autumn,None
+2024-09-02,Skirt,8,11992,Autumn,None
+2024-09-03,Kurti,9,7137,Autumn,None
+2024-09-03,Winter Jacket,19,57855,Autumn,None
+2024-09-03,Skirt,18,14454,Autumn,None
+2024-09-04,Nightwear,15,14865,Autumn,None
+2024-09-04,Kurti,6,4248,Autumn,None
+2024-09-04,Jeans,9,13167,Autumn,None
+2024-09-05,Skirt,6,8802,Autumn,None
+2024-09-05,Saree,32,50880,Autumn,None
+2024-09-06,Salwar Suit,32,50272,Autumn,None
+2024-09-06,Jeans,19,35777,Autumn,None
+2024-09-07,Dupatta,10,2310,Autumn,None
+2024-09-07,Lehenga,14,60816,Autumn,None
+2024-09-07,T-shirt,13,9776,Autumn,None
+2024-09-08,Saree,38,63536,Autumn,None
+2024-09-08,Lehenga,34,123012,Autumn,None
+2024-09-08,Kurti,12,8892,Autumn,None
+2024-09-09,Jeans,7,12327,Autumn,None
+2024-09-09,T-shirt,17,7990,Autumn,None
+2024-09-10,Jeans,18,30924,Autumn,None
+2024-09-10,Top/Blouse,11,10934,Autumn,None
+2024-09-10,Lehenga,38,100890,Autumn,None
+2024-09-11,Winter Jacket,15,41085,Autumn,None
+2024-09-11,Kurti,16,10208,Autumn,None
+2024-09-11,Jeans,8,14304,Autumn,None
+2024-09-12,Western Dress,8,14096,Autumn,None
+2024-09-12,T-shirt,16,10080,Autumn,None
+2024-09-13,Winter Jacket,10,26730,Autumn,None
+2024-09-13,Saree,22,32428,Autumn,None
+2024-09-13,Nightwear,19,14516,Autumn,None
+2024-09-14,Nightwear,10,11350,Autumn,None
+2024-09-14,Dupatta,13,5785,Autumn,None
+2024-09-15,Dupatta,11,4334,Autumn,None
+2024-09-15,Top/Blouse,17,13685,Autumn,None
+2024-09-16,Nightwear,9,10998,Autumn,None
+2024-09-16,Saree,38,62434,Autumn,None
+2024-09-16,Dupatta,20,11820,Autumn,None
+2024-09-17,Nightwear,10,14590,Autumn,None
+2024-09-17,Lehenga,22,94534,Autumn,None
+2024-09-18,Winter Jacket,11,24211,Autumn,None
+2024-09-18,T-shirt,7,4886,Autumn,None
+2024-09-18,Dupatta,18,9162,Autumn,None
+2024-09-19,Top/Blouse,14,16422,Autumn,None
+2024-09-19,Saree,16,35648,Autumn,None
+2024-09-20,Western Dress,11,18744,Autumn,None
+2024-09-20,Saree,34,45526,Autumn,None
+2024-09-20,Skirt,15,15450,Autumn,None
+2024-09-21,Saree,24,58152,Autumn,None
+2024-09-21,Winter Jacket,8,22616,Autumn,None
+2024-09-22,Nightwear,11,10362,Autumn,None
+2024-09-22,Jeans,7,10724,Autumn,None
+2024-09-23,Dupatta,16,5920,Autumn,None
+2024-09-23,Lehenga,24,113568,Autumn,None
+2024-09-24,Skirt,12,15492,Autumn,None
+2024-09-24,Kurti,16,10272,Autumn,None
+2024-09-24,Saree,18,37962,Autumn,None
+2024-09-25,Salwar Suit,38,56164,Autumn,None
+2024-09-25,Skirt,15,21165,Autumn,None
+2024-09-25,Nightwear,19,28329,Autumn,None
+2024-09-26,Western Dress,15,29175,Autumn,None
+2024-09-26,Dupatta,13,3081,Autumn,None
+2024-09-27,Winter Jacket,8,20736,Autumn,None
+2024-09-27,Skirt,7,5600,Autumn,None
+2024-09-27,Salwar Suit,34,61200,Autumn,None
+2024-09-28,Saree,26,37154,Autumn,None
+2024-09-28,Winter Jacket,17,48178,Autumn,None
+2024-09-29,Nightwear,14,19418,Autumn,None
+2024-09-29,Dupatta,15,3780,Autumn,None
+2024-09-30,Winter Jacket,7,15071,Autumn,None
+2024-09-30,Jeans,7,13517,Autumn,None
+2024-09-30,Dupatta,9,3834,Autumn,None
+2024-10-01,Lehenga,12,31704,Autumn,None
+2024-10-01,Dupatta,17,7565,Autumn,None
+2024-10-01,Winter Jacket,11,25619,Autumn,None
+2024-10-02,Saree,10,15000,Autumn,None
+2024-10-02,Jeans,12,18516,Autumn,None
+2024-10-03,Western Dress,6,10728,Autumn,Navratri
+2024-10-03,Saree,36,75096,Autumn,Navratri
+2024-10-04,Winter Jacket,9,26487,Autumn,Navratri
+2024-10-04,Jeans,15,19830,Autumn,Navratri
+2024-10-05,Top/Blouse,7,4858,Autumn,Navratri
+2024-10-05,Nightwear,9,12618,Autumn,Navratri
+2024-10-05,Lehenga,42,114282,Autumn,Navratri
+2024-10-06,Western Dress,15,24390,Autumn,Navratri
+2024-10-06,Saree,36,66564,Autumn,Navratri
+2024-10-07,Lehenga,90,226710,Autumn,Navratri
+2024-10-07,Skirt,16,20480,Autumn,Navratri
+2024-10-08,Western Dress,16,31312,Autumn,Navratri
+2024-10-08,Nightwear,13,17329,Autumn,Navratri
+2024-10-08,Salwar Suit,16,25056,Autumn,Navratri
+2024-10-09,Jeans,11,15543,Autumn,Navratri
+2024-10-09,T-shirt,11,8052,Autumn,Navratri
+2024-10-10,Jeans,14,27524,Autumn,Navratri
+2024-10-10,T-shirt,14,5684,Autumn,Navratri
+2024-10-10,Winter Jacket,18,55818,Autumn,Navratri
+2024-10-11,Top/Blouse,13,9399,Autumn,Navratri
+2024-10-11,Lehenga,108,483192,Autumn,Navratri
+2024-10-11,Jeans,10,15560,Autumn,Navratri
+2024-10-12,T-shirt,8,3664,Autumn,Navratri
+2024-10-12,Winter Jacket,9,21186,Autumn,Navratri
+2024-10-13,Nightwear,20,17420,Autumn,None
+2024-10-13,Top/Blouse,11,11385,Autumn,None
+2024-10-14,Lehenga,34,159188,Autumn,None
+2024-10-14,Saree,34,44098,Autumn,None
+2024-10-14,Nightwear,12,16896,Autumn,None
+2024-10-15,Saree,22,30470,Autumn,None
+2024-10-15,T-shirt,7,3829,Autumn,None
+2024-10-16,Jeans,11,20515,Autumn,None
+2024-10-16,Nightwear,17,15504,Autumn,None
+2024-10-16,Saree,14,25648,Autumn,None
+2024-10-17,Saree,40,77080,Autumn,None
+2024-10-17,Salwar Suit,30,39990,Autumn,None
+2024-10-17,Top/Blouse,6,6060,Autumn,None
+2024-10-18,Lehenga,34,139196,Autumn,None
+2024-10-18,Nightwear,6,6426,Autumn,None
+2024-10-19,Saree,30,39540,Autumn,None
+2024-10-19,T-shirt,5,2720,Autumn,None
+2024-10-20,Jeans,11,19789,Autumn,None
+2024-10-20,Western Dress,19,31160,Autumn,None
+2024-10-20,T-shirt,20,10020,Autumn,None
+2024-10-21,Nightwear,9,11079,Autumn,None
+2024-10-21,Lehenga,12,46620,Autumn,None
+2024-10-21,Salwar Suit,30,47160,Autumn,None
+2024-10-22,Salwar Suit,14,17108,Autumn,None
+2024-10-22,Top/Blouse,5,5150,Autumn,None
+2024-10-23,Nightwear,16,11488,Autumn,None
+2024-10-23,Top/Blouse,12,11544,Autumn,None
+2024-10-23,Western Dress,10,12600,Autumn,None
+2024-10-24,Saree,20,33860,Autumn,None
+2024-10-24,Winter Jacket,19,58216,Autumn,None
+2024-10-24,Skirt,15,16185,Autumn,None
+2024-10-25,Top/Blouse,19,19513,Autumn,None
+2024-10-25,Winter Jacket,17,44285,Autumn,None
+2024-10-25,Nightwear,9,10404,Autumn,None
+2024-10-26,Top/Blouse,8,7720,Autumn,None
+2024-10-26,Salwar Suit,10,11290,Autumn,None
+2024-10-26,Skirt,17,14518,Autumn,None
+2024-10-27,Saree,20,32540,Autumn,None
+2024-10-27,Salwar Suit,16,18912,Autumn,None
+2024-10-28,Top/Blouse,10,8560,Autumn,None
+2024-10-28,T-shirt,10,4030,Autumn,None
+2024-10-28,Skirt,14,16786,Autumn,None
+2024-10-29,Jeans,19,25289,Autumn,None
+2024-10-29,Lehenga,40,123000,Autumn,None
+2024-10-29,Top/Blouse,20,20620,Autumn,None
+2024-10-30,Skirt,6,4800,Autumn,None
+2024-10-30,Dupatta,11,3168,Autumn,None
+2024-10-31,Winter Jacket,11,25069,Autumn,Diwali
+2024-10-31,Saree,30,69810,Autumn,Diwali
+2024-10-31,Skirt,18,23346,Autumn,Diwali
+2024-11-01,Nightwear,19,17879,Autumn,None
+2024-11-01,Dupatta,11,6435,Autumn,None
+2024-11-01,Western Dress,15,21300,Autumn,None
+2024-11-02,Saree,38,67336,Autumn,None
+2024-11-02,Nightwear,14,17626,Autumn,None
+2024-11-03,T-shirt,10,5360,Autumn,None
+2024-11-03,Nightwear,10,13290,Autumn,None
+2024-11-04,Skirt,19,17043,Autumn,None
+2024-11-04,Top/Blouse,18,17748,Autumn,None
+2024-11-04,T-shirt,10,4280,Autumn,None
+2024-11-05,T-shirt,9,5787,Autumn,None
+2024-11-05,Jeans,19,28614,Autumn,None
+2024-11-06,T-shirt,18,8046,Autumn,None
+2024-11-06,Jeans,11,19536,Autumn,None
+2024-11-07,Nightwear,6,6828,Autumn,None
+2024-11-07,Saree,14,31248,Autumn,None
+2024-11-07,Western Dress,5,6035,Autumn,None
+2024-11-08,Kurti,5,3335,Autumn,None
+2024-11-08,Jeans,12,22632,Autumn,None
+2024-11-09,Salwar Suit,30,46440,Autumn,None
+2024-11-09,Kurti,16,10256,Autumn,None
+2024-11-09,Jeans,7,10563,Autumn,None
+2024-11-10,Top/Blouse,5,3300,Autumn,None
+2024-11-10,Skirt,11,11638,Autumn,None
+2024-11-10,Kurti,16,9744,Autumn,None
+2024-11-11,Top/Blouse,8,6328,Autumn,None
+2024-11-11,Saree,10,14440,Autumn,None
+2024-11-12,Nightwear,15,18870,Autumn,None
+2024-11-12,T-shirt,10,7520,Autumn,None
+2024-11-12,Lehenga,36,125136,Autumn,None
+2024-11-13,Winter Jacket,17,35819,Autumn,None
+2024-11-13,Jeans,16,26720,Autumn,None
+2024-11-14,Saree,14,30128,Autumn,None
+2024-11-14,Winter Jacket,14,37492,Autumn,None
+2024-11-14,Jeans,19,37278,Autumn,None
+2024-11-15,Nightwear,16,12496,Autumn,None
+2024-11-15,T-shirt,16,9584,Autumn,None
+2024-11-16,Skirt,19,22648,Autumn,None
+2024-11-16,Top/Blouse,14,10710,Autumn,None
+2024-11-16,Dupatta,8,3288,Autumn,None
+2024-11-17,Dupatta,9,4662,Autumn,None
+2024-11-17,Salwar Suit,14,14294,Autumn,None
+2024-11-18,T-shirt,10,5560,Autumn,None
+2024-11-18,Top/Blouse,15,10080,Autumn,None
+2024-11-18,Nightwear,8,6032,Autumn,None
+2024-11-19,T-shirt,18,10188,Autumn,None
+2024-11-19,Skirt,13,13247,Autumn,None
+2024-11-19,Nightwear,19,15371,Autumn,None
+2024-11-20,Top/Blouse,17,10948,Autumn,None
+2024-11-20,Nightwear,10,11670,Autumn,None
+2024-11-20,Winter Jacket,16,41872,Autumn,None
+2024-11-21,T-shirt,18,10494,Autumn,None
+2024-11-21,Kurti,11,6941,Autumn,None
+2024-11-21,Salwar Suit,40,41040,Autumn,None
+2024-11-22,T-shirt,14,10052,Autumn,None
+2024-11-22,Western Dress,6,8766,Autumn,None
+2024-11-23,Lehenga,22,66330,Autumn,None
+2024-11-23,Top/Blouse,13,8723,Autumn,None
+2024-11-24,Western Dress,5,6315,Autumn,None
+2024-11-24,Salwar Suit,20,23440,Autumn,None
+2024-11-25,Winter Jacket,8,23592,Autumn,None
+2024-11-25,T-shirt,15,7200,Autumn,None
+2024-11-26,Winter Jacket,14,29876,Autumn,None
+2024-11-26,T-shirt,20,13700,Autumn,None
+2024-11-27,Lehenga,40,189040,Autumn,None
+2024-11-27,Nightwear,15,21405,Autumn,None
+2024-11-27,Dupatta,6,2442,Autumn,None
+2024-11-28,Salwar Suit,32,55584,Autumn,None
+2024-11-28,Kurti,8,5984,Autumn,None
+2024-11-28,Western Dress,9,15300,Autumn,None
+2024-11-29,T-shirt,9,4383,Autumn,None
+2024-11-29,Lehenga,20,59300,Autumn,None
+2024-11-29,Top/Blouse,8,6400,Autumn,None
+2024-11-30,Skirt,12,17160,Autumn,None
+2024-11-30,Saree,14,31626,Autumn,None
+2024-12-01,Dupatta,5,1420,Winter,None
+2024-12-01,Winter Jacket,32,87328,Winter,None
+2024-12-01,Salwar Suit,18,23634,Winter,None
+2024-12-02,Saree,14,24808,Winter,None
+2024-12-02,Lehenga,16,67120,Winter,None
+2024-12-02,Skirt,5,5835,Winter,None
+2024-12-03,Kurti,5,3015,Winter,None
+2024-12-03,Saree,7,13055,Winter,None
+2024-12-04,Top/Blouse,9,5598,Winter,None
+2024-12-04,Kurti,11,5566,Winter,None
+2024-12-05,Dupatta,17,6188,Winter,None
+2024-12-05,Saree,12,23112,Winter,None
+2024-12-06,Dupatta,10,4870,Winter,None
+2024-12-06,T-shirt,9,6966,Winter,None
+2024-12-07,T-shirt,5,3075,Winter,None
+2024-12-07,Kurti,10,8160,Winter,None
+2024-12-07,Nightwear,10,8030,Winter,None
+2024-12-08,Skirt,8,10448,Winter,None
+2024-12-08,Dupatta,5,2795,Winter,None
+2024-12-09,Nightwear,28,26936,Winter,None
+2024-12-09,Saree,17,21454,Winter,None
+2024-12-09,Salwar Suit,18,18198,Winter,None
+2024-12-10,Western Dress,10,13260,Winter,None
+2024-12-10,Jeans,17,22797,Winter,None
+2024-12-11,Top/Blouse,5,5135,Winter,None
+2024-12-11,Lehenga,20,68880,Winter,None
+2024-12-12,Jeans,20,36900,Winter,None
+2024-12-12,Kurti,12,6264,Winter,None
+2024-12-12,Skirt,8,11272,Winter,None
+2024-12-13,Salwar Suit,7,11095,Winter,None
+2024-12-13,Kurti,17,11475,Winter,None
+2024-12-13,Winter Jacket,22,56474,Winter,None
+2024-12-14,Western Dress,14,19530,Winter,None
+2024-12-14,T-shirt,18,8118,Winter,None
+2024-12-15,Skirt,7,9667,Winter,None
+2024-12-15,Dupatta,7,2555,Winter,None
+2024-12-15,Western Dress,13,21632,Winter,None
+2024-12-16,T-shirt,15,11280,Winter,None
+2024-12-16,Jeans,15,22200,Winter,None
+2024-12-17,Salwar Suit,12,16284,Winter,None
+2024-12-17,Saree,15,33240,Winter,None
+2024-12-17,Nightwear,24,18288,Winter,None
+2024-12-18,Dupatta,17,4573,Winter,None
+2024-12-18,T-shirt,5,2150,Winter,None
+2024-12-19,Salwar Suit,15,21315,Winter,None
+2024-12-19,Jeans,5,7520,Winter,None
+2024-12-20,Western Dress,15,23565,Winter,None
+2024-12-20,T-shirt,16,10048,Winter,None
+2024-12-21,Skirt,20,26820,Winter,None
+2024-12-21,Jeans,15,24525,Winter,None
+2024-12-22,Kurti,13,7787,Winter,None
+2024-12-22,Dupatta,11,6083,Winter,None
+2024-12-22,Saree,19,27360,Winter,None
+2024-12-23,Jeans,15,29190,Winter,None
+2024-12-23,Winter Jacket,12,24684,Winter,None
+2024-12-24,Top/Blouse,18,19476,Winter,None
+2024-12-24,Salwar Suit,14,17360,Winter,None
+2024-12-24,Dupatta,19,6612,Winter,None
+2024-12-25,Western Dress,28,46116,Winter,Christmas
+2024-12-25,Nightwear,34,41480,Winter,Christmas
+2024-12-25,Jeans,5,7150,Winter,Christmas
+2024-12-26,Top/Blouse,10,8070,Winter,None
+2024-12-26,Dupatta,14,4228,Winter,None
+2024-12-27,Top/Blouse,12,11424,Winter,None
+2024-12-27,T-shirt,19,14706,Winter,None
+2024-12-27,Nightwear,36,50760,Winter,None
+2024-12-28,Winter Jacket,36,81684,Winter,None
+2024-12-28,Nightwear,32,22400,Winter,None
+2024-12-29,Winter Jacket,16,45104,Winter,None
+2024-12-29,Nightwear,28,29456,Winter,None
+2024-12-29,Western Dress,18,30888,Winter,None
+2024-12-30,T-shirt,11,8228,Winter,None
+2024-12-30,Winter Jacket,26,82472,Winter,None
+2024-12-30,Kurti,18,10656,Winter,None
+2024-12-31,Kurti,11,7414,Winter,None
+2024-12-31,Salwar Suit,6,10044,Winter,None
+2024-12-31,Skirt,9,10494,Winter,None
+2025-01-01,Lehenga,11,54439,Winter,None
+2025-01-01,Skirt,12,11184,Winter,None
+2025-01-01,Dupatta,19,9405,Winter,None
+2025-01-02,T-shirt,15,7230,Winter,None
+2025-01-02,Saree,11,18953,Winter,None
+2025-01-02,Skirt,5,5785,Winter,None
+2025-01-03,Western Dress,12,19824,Winter,None
+2025-01-03,Kurti,5,2740,Winter,None
+2025-01-03,Lehenga,11,37290,Winter,None
+2025-01-04,Winter Jacket,40,136080,Winter,None
+2025-01-04,Salwar Suit,8,8536,Winter,None
+2025-01-05,Nightwear,14,17486,Winter,None
+2025-01-05,Jeans,16,22512,Winter,None
+2025-01-06,Skirt,20,16740,Winter,None
+2025-01-06,Salwar Suit,14,20426,Winter,None
+2025-01-06,Winter Jacket,32,97408,Winter,None
+2025-01-07,Winter Jacket,10,33300,Winter,None
+2025-01-07,Skirt,16,15344,Winter,None
+2025-01-08,Lehenga,11,31669,Winter,None
+2025-01-08,Skirt,17,21845,Winter,None
+2025-01-08,Western Dress,15,23790,Winter,None
+2025-01-09,Skirt,15,17145,Winter,None
+2025-01-09,Dupatta,11,4400,Winter,None
+2025-01-09,Top/Blouse,6,5010,Winter,None
+2025-01-10,Saree,5,6435,Winter,None
+2025-01-10,Kurti,5,2625,Winter,None
+2025-01-11,Lehenga,8,37720,Winter,None
+2025-01-11,Top/Blouse,14,11606,Winter,None
+2025-01-12,Western Dress,15,23805,Winter,None
+2025-01-12,Winter Jacket,10,34450,Winter,None
+2025-01-13,Dupatta,11,4257,Winter,None
+2025-01-13,Jeans,16,29024,Winter,None
+2025-01-14,Kurti,15,9585,Winter,None
+2025-01-14,T-shirt,14,6132,Winter,None
+2025-01-15,Salwar Suit,18,22860,Winter,Makar Sankranti
+2025-01-15,Top/Blouse,19,15124,Winter,Makar Sankranti
+2025-01-15,Lehenga,16,52544,Winter,Makar Sankranti
+2025-01-16,Jeans,20,26160,Winter,None
+2025-01-16,Dupatta,12,5892,Winter,None
+2025-01-16,Skirt,6,6384,Winter,None
+2025-01-17,Nightwear,10,7610,Winter,None
+2025-01-17,Saree,14,25592,Winter,None
+2025-01-18,Top/Blouse,6,6996,Winter,None
+2025-01-18,Nightwear,12,14880,Winter,None
+2025-01-18,Winter Jacket,10,21460,Winter,None
+2025-01-19,Top/Blouse,10,9380,Winter,None
+2025-01-19,Skirt,15,16500,Winter,None
+2025-01-20,Saree,6,10326,Winter,None
+2025-01-20,Jeans,13,16809,Winter,None
+2025-01-21,Western Dress,17,23613,Winter,None
+2025-01-21,Winter Jacket,18,50634,Winter,None
+2025-01-22,Lehenga,16,58832,Winter,None
+2025-01-22,Nightwear,36,40212,Winter,None
+2025-01-22,Skirt,8,9144,Winter,None
+2025-01-23,Western Dress,12,20832,Winter,None
+2025-01-23,Winter Jacket,38,116850,Winter,None
+2025-01-24,Lehenga,17,51476,Winter,None
+2025-01-24,Salwar Suit,13,16900,Winter,None
+2025-01-24,Skirt,12,14088,Winter,None
+2025-01-25,T-shirt,10,6980,Winter,None
+2025-01-25,Winter Jacket,40,117920,Winter,None
+2025-01-25,Lehenga,18,83934,Winter,None
+2025-01-26,Top/Blouse,15,17265,Winter,Republic Day
+2025-01-26,Winter Jacket,10,20790,Winter,Republic Day
+2025-01-26,Dupatta,6,3036,Winter,Republic Day
+2025-01-27,Skirt,6,6798,Winter,None
+2025-01-27,Salwar Suit,16,19072,Winter,None
+2025-01-28,Western Dress,5,8820,Winter,None
+2025-01-28,Dupatta,9,4554,Winter,None
+2025-01-28,T-shirt,7,4270,Winter,None
+2025-01-29,T-shirt,18,14076,Winter,None
+2025-01-29,Jeans,10,13710,Winter,None
+2025-01-29,Kurti,6,5274,Winter,None
+2025-01-30,Salwar Suit,7,8631,Winter,None
+2025-01-30,Jeans,7,12922,Winter,None
+2025-01-31,Jeans,6,10362,Winter,None
+2025-01-31,Top/Blouse,18,19782,Winter,None
+2025-02-01,Salwar Suit,10,15100,Winter,None
+2025-02-01,Winter Jacket,12,25656,Winter,None
+2025-02-02,Saree,17,30583,Winter,None
+2025-02-02,Top/Blouse,10,10720,Winter,None
+2025-02-02,Dupatta,11,3168,Winter,None
+2025-02-03,Kurti,8,5120,Winter,None
+2025-02-03,Winter Jacket,18,58428,Winter,None
+2025-02-04,T-shirt,19,10146,Winter,None
+2025-02-04,Winter Jacket,26,71656,Winter,None
+2025-02-05,Lehenga,13,60632,Winter,None
+2025-02-05,Saree,6,8100,Winter,None
+2025-02-06,Salwar Suit,18,19674,Winter,None
+2025-02-06,Lehenga,6,22260,Winter,None
+2025-02-06,Nightwear,26,30810,Winter,None
+2025-02-07,Top/Blouse,5,3145,Winter,None
+2025-02-07,Nightwear,14,13216,Winter,None
+2025-02-08,Jeans,12,20880,Winter,None
+2025-02-08,Western Dress,19,29526,Winter,None
+2025-02-08,Top/Blouse,5,5145,Winter,None
+2025-02-09,Western Dress,11,16038,Winter,None
+2025-02-09,Jeans,13,25402,Winter,None
+2025-02-10,Salwar Suit,6,9330,Winter,None
+2025-02-10,Saree,11,13310,Winter,None
+2025-02-10,Skirt,8,9648,Winter,None
+2025-02-11,T-shirt,12,5844,Winter,None
+2025-02-11,Top/Blouse,18,14598,Winter,None
+2025-02-12,Western Dress,6,11310,Winter,None
+2025-02-12,Top/Blouse,9,6210,Winter,None
+2025-02-13,Top/Blouse,11,11979,Winter,None
+2025-02-13,Winter Jacket,20,60440,Winter,None
+2025-02-13,Western Dress,14,18536,Winter,None
+2025-02-14,Nightwear,30,40230,Winter,None
+2025-02-14,Kurti,17,10557,Winter,None
+2025-02-14,Western Dress,11,16005,Winter,None
+2025-02-15,Dupatta,20,8000,Winter,None
+2025-02-15,Lehenga,12,49812,Winter,None
+2025-02-16,Dupatta,18,4914,Winter,None
+2025-02-16,Kurti,5,2670,Winter,None
+2025-02-16,Salwar Suit,13,21619,Winter,None
+2025-02-17,Nightwear,28,25116,Winter,None
+2025-02-17,Saree,7,13419,Winter,None
+2025-02-17,Dupatta,8,2336,Winter,None
+2025-02-18,Top/Blouse,9,10800,Winter,None
+2025-02-18,Salwar Suit,11,19195,Winter,None
+2025-02-18,Western Dress,6,10806,Winter,None
+2025-02-19,T-shirt,15,6600,Winter,None
+2025-02-19,Winter Jacket,40,118000,Winter,None
+2025-02-19,Jeans,8,10304,Winter,None
+2025-02-20,Lehenga,8,21024,Winter,None
+2025-02-20,Saree,8,13824,Winter,None
+2025-02-20,Western Dress,12,17436,Winter,None
+2025-02-21,Jeans,8,11328,Winter,None
+2025-02-21,Skirt,17,22015,Winter,None
+2025-02-22,T-shirt,17,8330,Winter,None
+2025-02-22,Top/Blouse,16,14976,Winter,None
+2025-02-22,Salwar Suit,20,34760,Winter,None
+2025-02-23,Dupatta,6,1884,Winter,None
+2025-02-23,Nightwear,18,13518,Winter,None
+2025-02-23,Skirt,12,13584,Winter,None
+2025-02-24,Jeans,20,32800,Winter,None
+2025-02-24,Lehenga,9,23238,Winter,None
+2025-02-24,Dupatta,18,10368,Winter,None
+2025-02-25,Top/Blouse,11,10604,Winter,None
+2025-02-25,Winter Jacket,24,79848,Winter,None
+2025-02-26,Western Dress,9,14670,Winter,None
+2025-02-26,Kurti,11,7381,Winter,None
+2025-02-26,T-shirt,18,8370,Winter,None
+2025-02-27,Dupatta,8,4480,Winter,None
+2025-02-27,Top/Blouse,16,12048,Winter,None
+2025-02-27,Saree,18,34812,Winter,None
+2025-02-28,Dupatta,7,1771,Winter,None
+2025-02-28,Lehenga,10,47090,Winter,None
+2025-03-01,Kurti,11,9845,Spring,None
+2025-03-01,Jeans,5,7890,Spring,None
+2025-03-01,T-shirt,8,4928,Spring,None

@@ -1,0 +1,10 @@
+pandas
+numpy
+scikit-learn
+prophet
+statsmodels
+xgboost
+pulp
+streamlit
+plotly
+groq
